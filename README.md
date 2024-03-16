@@ -13,7 +13,7 @@ This project was implemented in Python, utilizing Jupyter Notebook within the An
 - pickle
 
 # Data Scoure:
-Udacity - : "Data Science" Nanodegree program
+Udacity "Data Science" Nanodegree program / IBM Watson Studio
 
 # Acknowledgements :
 Thanks to IBM Watson Studio for providing the data.
